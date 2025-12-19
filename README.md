@@ -1,4 +1,5 @@
 ## 🚖 TukTuk Holic <3 DOT
+TukTuk Holic prints views every 5 minutes like it’s nothing. Smart cooldowns, live tracking, zero babysitting. If you’re tired of doing it manually, this does it better.
 
 <img width="800" height="450" alt="TukTuk Holic Preview" src="https://s12.gifyu.com/images/bEauo.gif" />
 
